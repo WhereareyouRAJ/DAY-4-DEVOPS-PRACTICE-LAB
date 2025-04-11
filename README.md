@@ -51,17 +51,18 @@ Below are the steps followed with screenshots included to show each milestone cl
 - `git push -u origin main`
 
 📸 **Screenshot:**
-> ![Step 1 - Git Init & Push](screenshots/step-1-git-init-push.png)
+> ![Step 1 - Git Init & Push](<Screenshot 2025-04-11 141624-1.png>)
 
 ---
 
+
 ### 📍 2. Created `dev` Branch & Pushed to GitHub
 
-- `git checkout -b dev`
+- `git checkout -b dev`           
 - `git push -u origin dev`
 
 📸 **Screenshot:**
-> ![Step 2 - Dev Branch](screenshots/step-2-dev-branch.png)
+> ![Step 2 - Dev Branch](<Screenshot 2025-04-11 141757-1.png>)
 
 ---
 
@@ -71,7 +72,7 @@ Below are the steps followed with screenshots included to show each milestone cl
 - `git push -u origin feature/init-structure`
 
 📸 **Screenshot:**
-> ![Step 3 - Feature Branch](screenshots/step-3-feature-branch.png)
+> ![Step 3 - Feature Branch](<Screenshot 2025-04-11 141947-1.png>)
 
 ---
 
@@ -84,25 +85,25 @@ Below are the steps followed with screenshots included to show each milestone cl
 - `git push`
 
 📸 **Screenshot:**
-> ![Step 4 - Files Added](screenshots/step-4-files-added.png)
+> ![Step 4 - Files Added](<Screenshot 2025-04-11 142326-1.png>)
 
 ---
 
 ### 📍 5. Created Pull Request: `feature/init-structure` → `dev`
 
 📸 **Screenshots:**
-> ![Step 5 - PR to Dev](screenshots/step-5-pr-to-dev.png)  
-> ![Step 5 - Review the PR](screenshots/step-5-review-pr.png)  
-> ![Step 5 - Merge](screenshots/step-5-merge.png)
+> ![Step 5 - PR to Dev](<Screenshot 2025-04-11 143638-2.png>)
+> ![Step 5 - Review the PR](<Screenshot 2025-04-11 143708-1.png>) 
+> ![Step 5 - Merge](<Screenshot 2025-04-11 143744-1.png>)
 
 ---
 
 ### 📍 6. Merged `dev` to `main` via Pull Request
 
 📸 **Screenshots:**
-> ![Step 6 - PR to Main](screenshots/step-6-pr-to-main.png)  
-> ![Step 6 - Review](screenshots/step-6-review.png)  
-> ![Step 6 - Merge](screenshots/step-6-merge.png)
+> ![Step 6 - PR to Main](<Screenshot 2025-04-11 143952-1.png>)
+> ![Step 6 - Review](<Screenshot 2025-04-11 144037-1.png>) 
+> ![Step 6 - Merge](<Screenshot 2025-04-11 144051-1.png>)
 
 ---
 
@@ -112,15 +113,15 @@ Below are the steps followed with screenshots included to show each milestone cl
 - `git push origin v1.0`
 
 📸 **Screenshots:**
-> ![Step 7 - Tag v1.0](screenshots/step-7-tag-v1.0.png)  
-> ![Step 7 - Check v1.0](screenshots/step-7-check-v1.0.png)
+> ![Step 7 - Tag v1.0](<Screenshot 2025-04-11 144436-1.png>)  
+> ![Step 7 - Check v1.0](<Screenshot 2025-04-11 144509-1.png>)
 
 ---
 
 ### 📍 8. Final View
 
 📸 **Screenshot:**
-> ![Final Repo View](screenshots/final-repo-view.png)
+> ![Final Repo View](<Screenshot 2025-04-11 144552-2.png>)
 
 ---
 
@@ -135,7 +136,6 @@ This project taught me how to:
 ---
 
 > 💬 _"Well-structured Git practice is the first step to becoming a DevOps pro."_
-
 
 ## 🌟 Key Takeaways
 
@@ -152,5 +152,5 @@ Mastering Git workflows is foundational for any DevOps professional. This projec
 
 ---
 
-> 💡 _"Version control is not just a tool—it's a discipline that ensures the integrity and scalability of your projects."_  
+> 💡 _"Version control is not just a tool—it's a discipline that ensures the integrity and scalability of your projects."_
 
